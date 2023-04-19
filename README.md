@@ -1,7 +1,7 @@
 # Hola, mi nombre es Adam Sanchez 👋
 ### Backend developer
 
-En 2021 dejé la eso para estudir minecraft ... (Añadir tu texto) Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones focalizado en el backend.
+En 2021 dejé la ESO para estudir Valorant ... (Añadir tu texto) Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones focalizado en el backend.
 
 ## Tecnologías:
 [![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
