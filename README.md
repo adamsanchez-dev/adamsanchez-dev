@@ -1,7 +1,11 @@
 # Hola, mi nombre es Adam Sanchez 👋
 ### Backend developer
 
-En 2021 dejé la ESO para estudiar Valorant ... (Añadir tu texto) Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones focalizado en el backend.
+Soy un desarrollador de backend con experiencia en una variedad de lenguajes de programación, incluyendo Java, Springboot y C#. Mi pasión por la tecnología y la codificación me ha llevado a adquirir habilidades en múltiples plataformas y herramientas de desarrollo.
+
+En mi trabajo, disfruto resolviendo problemas complejos y diseñando soluciones escalables y eficientes. Además, estoy comprometido con el aprendizaje continuo y siempre estoy buscando formas de mejorar mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías de la industria.
+
+En este perfil de GitHub, puedes encontrar algunos de mis proyectos y contribuciones a diferentes proyectos de código abierto. Espero que puedas encontrar algo que te interese y que puedas colaborar conmigo en cualquier proyecto que desees.
 
 ## Tecnologías:
 [![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
