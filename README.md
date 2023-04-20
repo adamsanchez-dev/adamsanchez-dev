@@ -1,7 +1,7 @@
 # Hola, mi nombre es Adam Sánchez 👋
 ### Backend developer
 
-Soy un desarrollador de backend con experiencia en una variedad de lenguajes de programación, incluyendo Java, Springboot y C#. Mi pasión por la tecnología y la codificación me ha llevado a adquirir habilidades en múltiples plataformas y herramientas de desarrollo.
+Soy un desarrollador de backend con experiencia en una variedad de lenguajes de programación, incluyendo Java, C#, Kotlin. Mi pasión por la tecnología y la codificación me ha llevado a adquirir habilidades en múltiples plataformas y herramientas de desarrollo.
 
 En mi trabajo, disfruto resolviendo problemas complejos y diseñando soluciones escalables y eficientes. Además, estoy comprometido con el aprendizaje continuo y siempre estoy buscando formas de mejorar mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías de la industria.
 
