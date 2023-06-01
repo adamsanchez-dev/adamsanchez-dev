@@ -22,7 +22,7 @@ In this GitHub profile, you can find some of my projects and contributions to di
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)]()
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
+
 
 ## Find me on:
 
