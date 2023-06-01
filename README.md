@@ -1,13 +1,13 @@
-# Hola, mi nombre es Adam Sánchez 👋
+# Hello, my name is Adam Sanchez 👋
 ### Backend developer
 
-Soy un desarrollador de backend con experiencia en una variedad de lenguajes de programación, incluyendo Java, C#, Kotlin. Mi pasión por la tecnología y la codificación me ha llevado a adquirir habilidades en múltiples plataformas y herramientas de desarrollo.
+I'm a backend developer with experience in a variety of programming languages, including Java, C#, Kotlin. My passion for technology and coding has led me to acquire skills in multiple platforms and development tools.
 
-En mi trabajo, disfruto resolviendo problemas complejos y diseñando soluciones escalables y eficientes. Además, estoy comprometido con el aprendizaje continuo y siempre estoy buscando formas de mejorar mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías de la industria.
+In my work, I enjoy solving complex problems and designing scalable and efficient solutions. Additionally, I am committed to continuous learning and am always looking for ways to improve my skills and stay up to date with the latest industry trends and technologies.
 
-En este perfil de GitHub, puedes encontrar algunos de mis proyectos y contribuciones a diferentes proyectos de código abierto. Espero que puedas encontrar algo que te interese y que puedas colaborar conmigo en cualquier proyecto que desees.
+In this GitHub profile, you can find some of my projects and contributions to different open source projects. I hope you can find something that interests you and that you can collaborate with me on any project you want.
 
-## Tecnologías:
+## Technologies:
 [![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C%23-8B008B?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
 </br>
@@ -24,11 +24,11 @@ En este perfil de GitHub, puedes encontrar algunos de mis proyectos y contribuci
 </br>
 Y alguna más...
 
-## Encuéntrame en:
+## Find me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adamsanchezp/)
 
-## Proyectos Creados:
+## Created Projects:
 
 ### HOTELERP:
 
