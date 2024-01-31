@@ -9,7 +9,6 @@ In this GitHub profile, you can find some of my projects and contributions to di
 
 ## Technologies:
 [![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C%23-8B008B?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
@@ -22,6 +21,10 @@ In this GitHub profile, you can find some of my projects and contributions to di
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)]()
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=101010)]()
 </br>
+
+## Certificates:
+[![meta-android-developer-certificate (2)](https://github.com/adamsanchez-dev/adamsanchez-dev/assets/114624883/5f198e8b-46bc-4028-bbdd-bdefd290622b)](https://www.credly.com/badges/696a0858-8edb-4ac6-ac76-e0966752b40e/public_url)
+
 
 
 ## Find me on:
